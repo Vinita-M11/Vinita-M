@@ -1,12 +1,12 @@
 ---
-title: Welcome to my blog
+Welcome :)
 ---
 
-Hi :) This is me testing. 
+I am Vinita, a final year masters student. 
 # Trying Markdown
 > **Hello**
 > > _Hello_
-Apparently this gives a line
+Apparently this gives a line 
 
 ---
 
